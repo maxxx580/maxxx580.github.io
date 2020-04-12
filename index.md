@@ -31,14 +31,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 > Department of Mechanical and Industrial Engineering   
 > University of Toronto   
-> Toronto ON Canada
+> Toronto ON Canada   
 > Jan. 2019 - Jun. 2020   
 > GPA: 4.0    
 
 ![uoft logo](/resources/images/umn.png) **Bachelor of Science in Computer Science**   
 > College of Science and Engineering    
 > University of Minnesota, Twin Cities   
-> Minneapolis MN USA
+> Minneapolis MN USA   
 > Aug. 2012 - May. 2017   
 > GPA 3.47   
 
