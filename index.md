@@ -11,41 +11,38 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Work
-
-**University of Toronto**   
+![uoft logo](/resources/images/uoft.png) **University of Toronto**   
 > Teaching Assistant   
 > Toronto ON Canada   
-> 2019 - 2020   
-> CSC301 & MIE250   
+> Sept. 2019 - Jun. 2020    
 
-**Cerner Corporation**   
+![cerner logo](/resources/images/cern.png) **Cerner Corporation**   
 > Software Engineer   
 > Kansas City MO USA   
-> 2017 - 2018   
-> Java, React.js
+> Oct. 2017 - Oct. 2018   
 
+![pearson logo](/resources/images/pearson.png) **Pearson Vue**
+> Java Developer Intern
+> Bloomington MN USA   
+> Jan 2017 - May 2017   
 
 # Education
 ![uoft logo](/resources/images/uoft.png) **Master of Engineering**   
 
 > Department of Mechanical and Industrial Engineering   
 > University of Toronto   
-> 2019 - 2020   
+> Toronto ON Canada
+> Jan. 2019 - Jun. 2020   
 > GPA: 4.0    
 
 ![uoft logo](/resources/images/umn.png) **Bachelor of Science in Computer Science**   
 > College of Science and Engineering    
 > University of Minnesota, Twin Cities   
-> 2012 - 2017   
+> Minneapolis MN USA
+> Aug. 2012 - May. 2017   
 > GPA 3.47   
 
-Inline-style: 
 
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ### Header 3
 
 ```js
