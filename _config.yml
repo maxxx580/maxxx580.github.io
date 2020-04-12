@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Zixiang Ma
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
+description: somewhere near hoover dam
+show_downloads: true
 logo: /resources/images/Profile.jpg
 
 
@@ -20,7 +20,7 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: maxxx580
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
