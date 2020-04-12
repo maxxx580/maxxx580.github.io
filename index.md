@@ -26,13 +26,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 # Education
-![alt text](/resources/images/uoft.png "Unversity of Toronto Logo")**Master of Engineering**   
+![uoft logo](/resources/images/uoft.png) **Master of Engineering**   
+
 > Department of Mechanical and Industrial Engineering   
 > University of Toronto   
 > 2019 - 2020   
 > GPA: 4.0    
 
-![alt text](/resources/images/umn.png "University of Minnesota Logo")**Bachelor of Science in Computer Science**   
+![uoft logo](/resources/images/umn.png) **Bachelor of Science in Computer Science**   
 > College of Science and Engineering    
 > University of Minnesota, Twin Cities   
 > 2012 - 2017   
