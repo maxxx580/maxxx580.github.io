@@ -2,15 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## README
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Work
+## Work
 ![uoft logo](/resources/images/uoft.png) **University of Toronto**   
 > Teaching Assistant   
 > Toronto ON Canada   
@@ -26,7 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > Bloomington MN USA   
 > Jan 2017 - May 2017   
 
-# Education
+## Education
 ![uoft logo](/resources/images/uoft.png) **Master of Engineering**   
 
 > Department of Mechanical and Industrial Engineering   
@@ -144,3 +140,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
