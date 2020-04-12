@@ -10,16 +10,41 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Work
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**University of Toronto**   
+> Teaching Assistant   
+> Toronto ON Canada   
+> 2019 - 2020   
+> CSC301 & MIE250   
 
-## Header 2
+**Cerner Corporation**   
+> Software Engineer   
+> Kansas City MO USA   
+> 2017 - 2018   
+> Java, React.js
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
+# Education
+![alt text](/resources/images/uoft.png "Unversity of Toronto Logo")**Master of Engineering**   
+> Department of Mechanical and Industrial Engineering   
+> University of Toronto   
+> 2019 - 2020   
+> GPA: 4.0    
+
+![alt text](/resources/images/umn.png "University of Minnesota Logo")**Bachelor of Science in Computer Science**   
+> College of Science and Engineering    
+> University of Minnesota, Twin Cities   
+> 2012 - 2017   
+> GPA 3.47   
+
+Inline-style: 
+
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ### Header 3
 
 ```js
