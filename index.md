@@ -4,28 +4,28 @@ layout: default
 
 
 
-## README
+## About
 
-~~~
-~~~
+:cn:   :us:
+:computer: :car:  :airplane:
+
 
 ***
 
 ## Education
-![uoft logo](/resources/images/uoft.png) **Master of Engineering**   
-
+![uoft logo](/resources/images/uoft.png) **Master of Engineering**     
+> Information Engineering   
 > Department of Mechanical and Industrial Engineering   
 > University of Toronto   
 > Toronto ON Canada   
-> Jan. 2019 - Jun. 2020   
-> GPA: 4.0    
+> Jan. 2019 - Jun. 2020      
 
-![uoft logo](/resources/images/umn.png) **Bachelor of Science in Computer Science**   
+![uoft logo](/resources/images/umn.png) **Bachelor of Science**   
+> Computer Science   
 > College of Science and Engineering    
 > University of Minnesota, Twin Cities   
 > Minneapolis MN USA   
 > Aug. 2012 - May. 2017   
-> GPA 3.47   
 
 ***
 
@@ -47,6 +47,7 @@ layout: default
 
 ***
 
+## Skills
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
