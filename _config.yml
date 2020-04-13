@@ -4,6 +4,9 @@ description: somewhere near hoover dam
 show_downloads: true
 logo: /resources/images/Profile.jpg
 
+plugins:
+  - jemoji
+
 
 # --- Footer options --- #
 
