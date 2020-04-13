@@ -6,6 +6,13 @@ logo: /resources/images/Profile.jpg
 
 plugins:
   - jemoji
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-sitemap
+
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 
 # --- Footer options --- #
