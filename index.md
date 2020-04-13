@@ -6,8 +6,9 @@ layout: default
 
 ## About
 
-:cn:   :us:
-:computer: :car:  :airplane:
+:cn: :us: :canada:   
+:computer: :car: :airplane: :camping: :hamburger: :dog:   
+:snowboarder: :tennis: :football:   
 
 
 ***
